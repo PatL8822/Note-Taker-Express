@@ -10,14 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PatL8822/Note-Taker-Express.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/PatL8822/Note-Taker-Express/issues"
-  },
-  "homepage": "https://github.com/PatL8822/Note-Taker-Express#readme"
+  }
 }
